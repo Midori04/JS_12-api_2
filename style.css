@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url("./test.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    color: #fff;
+
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 100vh;
+}
+
+.by {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.temp {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.beskrivelse {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+.minmax {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+#søk {
+    border-color: green
+    width: ;
+}
+
+h1 {
+    color: chocolate;
+}
