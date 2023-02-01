@@ -21,6 +21,11 @@ body {
     height: 100vh;
 }
 
+.contain1 {
+    display: flex;
+    justify-content: center;
+}
+
 .by {
     font-weight: bold;
     font-size: 30px;
@@ -38,15 +43,20 @@ body {
     margin-top: -10px;
 }
 
-.minmax {
+.min, .max, .slæsj {
     font-weight: bold;
     font-size: 30px;
     margin-top: -10px;
 }
 
 #søk {
-    border-color: green
-    width: ;
+    border-color: white;
+}
+
+#btn {
+    border-color: palegreen;
+    width: 148px;
+    margin-top: 5px;
 }
 
 h1 {
